@@ -1,45 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?> 
+﻿<?xml version="1.0"?>
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<atom:link type="application/rss+xml" rel="self" href="https://zigomar007.github.io/rss-reader"/>
+<title>قهوة زيقومار</title>
+<a href="https://zigomar007.github.io/rss-reader/" target="_blank">قهوة زيقومار</a>
+<managingEditor>apps.support@aljazeera.net (Apps Support)</managingEditor>
+<webMaster>apps.support@https://zigomar007.github.io/rss-reader (Apps Support)</webMaster>
+<description>قهوة زيقومار: آخر الأخبار</description>
+<copyright>© 2022 قهوة زيقومار</copyright>
+<lastBuildDate>jeudi, 28 Oct 2022 20:54:49 +0000</lastBuildDate>
+<language>ar</language>
+<image>
+<url>1.jpg</url>
+<title>الجزيرة نت</title>
+<link>https://www.cafezigomar.cf</link>
+<description>قهوة زيقومار: آخر أخبار اليوم</description>
+</image>
+<author>بقلم : زيقومار</author>
+<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+<link>https://zigomar007.github.io/rss-reader</link>
 
-<rdf:RDF 
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns="http://purl.org/rss/1.0/"
-> 
+ <title>مسلسل جديد بنكهة رمضان زمان..الاصلية !</title>
+<description>
+ <p><img src="1.jpg" alt="le café"/></p>
+كورسة متاع 11 سنة عرفت شلة متجددة متاع شخصيات تحتفل بقهوتها الاسبوعية مع السرفور حوسين. تقدم مجموعة شخصيات تتمنى تخرج معاها كل أسبوع، مكان تنجم تستعملو ديما وكل يوم من غير ما يولي ممل (متروك)، وسلسلة متاع مشاكل الي الناس يحبو يلمسوها باش يشوفوها تتحل.
 
-  <channel rdf:about="http://example.org/rss.rdf">
-    <title>Example Feed</title>
-    <link>http://www.example.org</link>
-    <description>Simply for the purpose of demonstration.</description>
+</description>
+<pubDate>thu, 28 Oct 2022 23:09:42 +0300</pubDate>
+<category>صحة شريبتكم !</category>
+<guid isPermaLink="false">https://zigomar007.github.io/rss-reader</guid>
 
-    <items>
-      <rdf:Seq>
-        <rdf:li resource="http://example.org/item/" />
-      </rdf:Seq>
-    </items>
-    
-  </channel>
-
-  <item rdf:about="http://example.org/item/">
-    <title>The Example Item</title> 
-    <link>http://example.org/item/</link>
-    <content:items><rdf:Bag>
-      <rdf:li><content:item>
-        <content:format rdf:resource="http://www.w3.org/1999/xhtml" />
-        <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed" />
-        <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
-          <em>This is <strong>very</strong></em> <strong>cool</strong>.
-        </rdf:value>
-      </content:item></rdf:li><rdf:li><content:item>
-        <content:format rdf:resource="http://www.w3.org/TR/html4/" />
-        <rdf:value><![CDATA[<em>This is<strong>very</em> cool</strong>.]]></rdf:value>
-      </content:item></rdf:li><rdf:li><content:item rdf:about="http://example.org/item/content-here.txt">
-        <content:format rdf:resource="http://www.isi.edu/in-notes/iana/assignments/media-types/text/plain" />
-        <rdf:value>This is &gt;very cool&lt;.</rdf:value>
-      </content:item></rdf:li><rdf:li><content:item rdf:about="http://example.org/item/content.svg">
-        <content:format rdf:resource="http://www.w3.org/2000/svg" />
-      </content:item></rdf:li>
-    </rdf:Bag></content:items>
-
-  </item> 
-
-</rdf:RDF>
+</item>
+</channel>
+</rss>
