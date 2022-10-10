@@ -1,9 +1,8 @@
-﻿<?xml version="1.0"?>
-<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-<atom:link type="application/rss+xml" rel="self" href="https://zigomar007.github.io/rss-reader"/>
+<atom:link type="application/rss+xml" rel="self" href="https://cafezigomar.ml/feed.xml"/>
 <title>قهوة زيقومار</title>
-<a href="https://zigomar007.github.io/rss-reader/" target="_blank">قهوة زيقومار</a>
+<a href="https://cafezigomar.cf" target="_blank">قهوة زيقومار</a>
 <managingEditor>apps.support@aljazeera.net (Apps Support)</managingEditor>
 <webMaster>apps.support@https://zigomar007.github.io/rss-reader (Apps Support)</webMaster>
 <description>قهوة زيقومار: آخر الأخبار</description>
@@ -11,22 +10,27 @@
 <lastBuildDate>jeudi, 28 Oct 2022 20:54:49 +0000</lastBuildDate>
 <language>ar</language>
 <image>
-<url>1.jpg</url>
-<title>الجزيرة نت</title>
-<link>https://www.cafezigomar.cf</link>
+<url>https://cafezigomar.cf/images/coffee2.jpg</url>
+<title>café zigomar</title>
+<link>https://cafezigomar.ml</link>
 <description>قهوة زيقومار: آخر أخبار اليوم</description>
 </image>
 <author>بقلم : زيقومار</author>
 <generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-<link>https://zigomar007.github.io/rss-reader</link>
+<link>https://cafezigomar.cf</link>
 
  <title>مسلسل جديد بنكهة رمضان زمان..الاصلية !</title>
-<description>
- <p><img src="1.jpg" alt="le café"/></p>
+<description><![CDATA[
+<p>
+<img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg" style="width: 600px;" />
+ <img alt="" src="/coffee2.jpg"/>
+ </p>
+ <img src="http://arabi21.com/Content/Upload/Editor/Image3_102022505737.png" alt="le café"/>
 كورسة متاع 11 سنة عرفت شلة متجددة متاع شخصيات تحتفل بقهوتها الاسبوعية مع السرفور حوسين. تقدم مجموعة شخصيات تتمنى تخرج معاها كل أسبوع، مكان تنجم تستعملو ديما وكل يوم من غير ما يولي ممل (متروك)، وسلسلة متاع مشاكل الي الناس يحبو يلمسوها باش يشوفوها تتحل.
-
+]]>
 </description>
+<media:thumbnail url="http://arabi21.com/UP/00000000000000000000000000000000000000000000000000000000/02.2017/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86%20%D8%B9%D9%85%D8%B1%D8%A9/IMG_1942.JPG" height="300" width="203" />
 <pubDate>thu, 28 Oct 2022 23:09:42 +0300</pubDate>
 <category>صحة شريبتكم !</category>
 <guid isPermaLink="false">https://zigomar007.github.io/rss-reader</guid>
