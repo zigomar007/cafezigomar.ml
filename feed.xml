@@ -8,7 +8,7 @@
 <webMaster>apps.support@https://zigomar007.github.io/rss-reader (Apps Support)</webMaster>
 <description>قهوة زيقومار: آخر الأخبار</description>
 <copyright>© 2022 قهوة زيقومار</copyright>
-<lastBuildDate>jeudi, 28 Oct 2022 20:54:49 +0000</lastBuildDate>
+<lastBuildDate>jeudi, 17 Oct 2022 20:54:49 +0000</lastBuildDate>
 <language>ar</language>
 <image>
 <url>https://cafezigomar.cf/images/coffee2.jpg</url>
@@ -19,39 +19,32 @@
 <author>بقلم : زيقومار</author>
 <generator>https://wordpress.org/?v=6.0.2</generator>
 <item>
-<link>https://cafezigomar.ml</link>
-<title>ويحلو السهر !!!!</title>
-<description><![CDATA[
-<p>
-<img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg" style="width: 200px;" />
- <img alt="le café" src="https://cafezigomar.cf/images/headline-home.jpg" style="width: 200px;"/>
+<link>https://cafezigomar.cf</link>
+<title>مسلسل جديد بنكهة رمضان زمان..الاصلية !</title>
+<description><![CDATA[<p>
+<img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg" style="width: 400px;" />
+
+<img alt="le café" src="https://cafezigomar.cf/images/headline-home.jpg"/>
 كورسة متاع 11 سنة عرفت شلة متجددة متاع شخصيات تحتفل بقهوتها الاسبوعية مع السرفور حوسين. تقدم مجموعة شخصيات تتمنى تخرج معاها كل أسبوع، مكان تنجم تستعملو ديما وكل يوم من غير ما يولي ممل (متروك)، وسلسلة متاع مشاكل الي الناس يحبو يلمسوها باش يشوفوها تتحل.
-</p>
 ]]>
 </description>
-<pubDate>thu, 27 Oct 2022 23:09:42 +0300</pubDate>
+<media:thumbnail url="" />
+<pubDate>thu, 14 Oct 2022 23:09:42 +0300</pubDate>
 <category>صحة شريبتكم !</category>
-<guid isPermaLink="false">https://zigomar007.github.io/rss-reader</guid>
-
 </item>
 <item>
 <link>https://cafezigomar.cf</link>
-<categories>صحة شريبتكم !</categories>
- <title>مسلسل جديد بنكهة رمضان زمان..الاصلية !</title>
-<description><![CDATA[
-<p>
-<img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg" style="width: 200px;" />
+<title>مسلسل جديد بنكهة رمضان زمان..الاصلية !</title>
+<description><![CDATA[<p>
+<img alt="la Deux" src="https://cafezigomar.cf/images/coffee2.jpg" style="width: 400px;" />
 
- <img alt="le café" src="https://cafezigomar.cf/images/headline-home.jpg" style="width: 200px;"/>
+ 
+ <img alt="le café" src="https://cafezigomar.cf/images/headline-home.jpg" style="width: 400px;/>
 كورسة متاع 11 سنة عرفت شلة متجددة متاع شخصيات تحتفل بقهوتها الاسبوعية مع السرفور حوسين. تقدم مجموعة شخصيات تتمنى تخرج معاها كل أسبوع، مكان تنجم تستعملو ديما وكل يوم من غير ما يولي ممل (متروك)، وسلسلة متاع مشاكل الي الناس يحبو يلمسوها باش يشوفوها تتحل.
-</p>
 ]]>
 </description>
-<pubDate>thu, 27 Oct 2022 23:09:42 +0300</pubDate>
-
-<guid isPermaLink="false">https://zigomar007.github.io/rss-reader</guid>
-
-</item>
-
+<pubDate>thu, 18 Oct 2022 23:09:42 +0300</pubDate>
+<category>صحة شريبتكم !</category>
+</item>	
 </channel>
 </rss>
