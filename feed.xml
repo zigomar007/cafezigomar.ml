@@ -1,24 +1,35 @@
 <?xml version="1.0"?>
-<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-<channel>
-<atom:link type="application/rss+xml" rel="self" href="https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"/>
-<title>الجزيرة نت</title>
-<a href="https://cafezigomar.cf" target="_blank">قهوة زيقومار</a>
-<managingEditor>apps.support@aljazeera.net (Apps Support)</managingEditor>
-<webMaster>apps.support@https://zigomar007.github.io/rss-reader (Apps Support)</webMaster>
-<description>قهوة زيقومار: آخر الأخبار</description>
-<copyright>© 2022 قهوة زيقومار</copyright>
-<lastBuildDate>jeudi, 17 Oct 2022 20:54:49 +0000</lastBuildDate>
-<language>ar</language>
-<image>
-<url>https://cafezigomar.cf/images/coffee2.jpg</url>
-<title>café zigomar</title>
-<link>https://cafezigomar.cf</link>
-<description>قهوة زيقومار: آخر أخبار اليوم</description>
+
+-<rss version="2.0" xmlns:a10="http://www.w3.org/2005/Atom">
+
+
+-<channel>
+
+<title>أخبار ثقافية</title>
+
+<link>http://arabi21.com/</link>
+
+<description>أخبار ثقافية</description>
+
+<language>ar-EG</language>
+
+<copyright>جميع الحقوق محفوظة لمؤسسة عربى 21</copyright>
+
+<lastBuildDate>Tue, 11 Oct 2022 02:01:32 Z</lastBuildDate>
+
+
+-<image>
+
+<url>http://arabi21.com/images/logo.jpg</url>
+
+<title>أخبار ثقافية</title>
+
+<link>http://arabi21.com/</link>
+
 </image>
-<author>بقلم : زيقومار</author>
-<generator>https://wordpress.org/?v=6.0.2</generator>
-<item>
+
+
+-<item>
 <link>https://cafezigomar.cf</link>
 <title>مسلسل جديد بنكهة رمضان زمان..الاصلية !</title>
 <author>
