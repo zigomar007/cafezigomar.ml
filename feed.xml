@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="UTF-8">
-	<title>feeeetch</title>
+<meta charset="UTF-8">
+<title>mes flux</title>
 <script src="jquery.min.js"></script>
 <script src="gfapi.js"></script>
 <script src="https://www.google.com/jsapi"></script>
-<!--
-https://arabi21.com/Rss/SectionNewsRSS?id=320
-https://arabi21.com/Rss/SectionNewsRSS?id=421
-
-https://arabi21.com/Rss/SectionNewsRSS?id=305
--->
 <style>
 body {}
 img {width: 400px;}
@@ -53,8 +47,7 @@ direction: rtl;
 background-color: brown;
 direction: rtl;
 }
-	</style>
-</head>	
+</style></head>
 <body>
 arabi21 408
 <p id="feed1"></p>
